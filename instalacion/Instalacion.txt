@@ -1,0 +1,34 @@
+REQUISITOS:
+
+1. Tener Java instalado (JDK 17 o superior. JDK 21 recomendado)
+
+Descargar manualmente:
+https://www.oracle.com/java/technologies/javase-downloads.html
+
+Verificar instalación en consola:
+java -version
+
+INSTALACIÓN DESDE LA CONSOLA:
+
+▶ WINDOWS (Windows 10/11):
+Usando winget:
+
+winget install EclipseAdoptium.Temurin.21.JDK
+
+▶ LINUX:
+
+Dependiendo de la distribución:
+
+* Ubuntu / Debian:
+  sudo apt update
+  sudo apt install openjdk-21-jdk
+
+* Arch Linux:
+  sudo pacman -S jdk21-openjdk
+
+* Fedora:
+  sudo dnf install java-21-openjdk
+
+Verificar instalación:
+java -version
+

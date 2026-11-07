@@ -1,0 +1,7 @@
+Bienvenido al programa|Gracias por elegir este programa.|04/06/2026|Baja|Pendiente
+Tarea de matematicas|Realizar el taller #2 de matematicas|12/04/2026|Alta|Pendiente
+LImpieza de portatil|Limpiar el portatil para sacarle el polvo|13/04/2026|Media|Pendiente
+Destapar alcancia|Destapar alcancia y ver cuantas monedas hay|26/07/2026|Baja|Pendiente
+Cambiar vidrio de celular|Salir a cambiar el vidrio del celular|15/04/2026|Media|Pendiente
+Actualizar la pagina|Actualizar la pagina con el nuevo proyecto|12/04/2026|Baja|Pendiente
+Partido de futbol|Asistir al partido de futbol el sabado|18/04/2026|Alta|Pendiente
